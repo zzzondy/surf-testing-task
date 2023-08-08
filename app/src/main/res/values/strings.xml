@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SurfTestingTask</string>
+    <string name="my_cocktails">My cocktails</string>
+    <string name="add_your_first_cocktail_here">Add your first cocktail here</string>
+    <string name="arrow_icon">Arrow icon</string>
+    <string name="add_icon">Add icon</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="recipe">Recipe</string>
+    <string name="add_title">Add title</string>
+    <string name="optional">Optional field</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="image">Image</string>
+    <string name="image_placeholder">Image placeholder</string>
+    <string name="add_ingredient">Add ingredient</string>
+    <string name="ingredient">Ingredient</string>
+    <string name="add">Add</string>
+    <string name="remove_icon">Remove icon</string>
+    <string name="edit">Edit</string>
+</resources>
